@@ -8,8 +8,7 @@
 *Description:* This project focused on designing and implementing a machine learning model to classify handwritten digits from the MNIST dataset using PyTorch. The task involved building and training a neural network that accurately identifies digits in grayscale images, with a target to achieve a high test accuracy.
 
 ***Dataset*** :
-
-![MNIST Dataset](https://img.shields.io/badge/MNIST%20Dataset%20-%20?style=for-the-badge&logoColor=red&link=https%3A%2F%2Fyann.lecun.com%2Fexdb%2Fmnist%2F)
+[MNIST Dataset](https://yann.lecun.com/exdb/mnist/)
 
 ---
 
